@@ -13,8 +13,8 @@ A simple web application that fetches random quotes from an API and provides add
 - 📲 Fully functional and visually consistent across mobile and desktop devices.
 
 ## 🔗 API Endpoint
-- [Random Quote API](https://api.freeapi.app/api/v1/public/quotes/quote/random)
 - [API Documentation](https://freeapi.hashnode.space/api-guide/apireference/getARandomQuote)
+- [Random Image API(Picsum)](https://picsum.photos/2000)
 
 ## 🌍 Deployment
 The application is deployed and accessible at:
@@ -27,11 +27,12 @@ The application is deployed and accessible at:
 <img src="./img/mobile_view.jpg" alt="Quote Generator" height="500">
 
 ### 📝 Example Quote(Dwonloads):
-![Quote Example](./screenshots/quote_example.png)
+<img src="./img/quote (7).png" alt="Quote Generator" width="600">
+<img src="./img/quote (9).png" alt="Quote Generator" width="600">
 
 ## 📬 Contact
 For any queries, reach out at:
-- **📧 Email:** your.email@example.com
-- **🐙 GitHub:** [yourusername](https://github.com/yourusername)
+- **📧 Email:** meaniketdey@gmail.com
+- **🐙 GitHub:** [AniketDey06](https://github.com/aniketdey06)
 
 #
