@@ -16,6 +16,11 @@ A simple web application that fetches random quotes from an API and provides add
 - [Random Quote API(freeapi.app)](https://freeapi.hashnode.space/api-guide/apireference/getARandomQuote)
 - [Random Image API(Picsum)](https://picsum.photos/2000)
 
+## ⚙️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **APIs:** FreeAPI for quotes, Picsum for random background images
+- **Deployment:** Hosted on Netlify
+
 ## 🌍 Deployment
 The application is deployed and accessible at:
 [Deployment Link](https://quotesplash.netlify.app/)
