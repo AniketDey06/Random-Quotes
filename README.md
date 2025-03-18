@@ -22,9 +22,9 @@ The application is deployed and accessible at:
 
 ## 📸 Screenshots
 ### 💻 Desktop View:
-![Quote Generator](./img/desktop_view.png)
+<img src="./img/desktop_view.png" alt="Quote Generator" width="600">
 ### 📱 Mobible View:
-![Quote Generator](./img/mobile_view.jpg)
+<img src="./img/mobile_view.jpg" alt="Quote Generator" height="500">
 
 ### 📝 Example Quote(Dwonloads):
 ![Quote Example](./screenshots/quote_example.png)
