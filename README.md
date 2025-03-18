@@ -18,15 +18,22 @@ A simple web application that fetches random quotes from an API and provides add
 
 ## 🌍 Deployment
 The application is deployed and accessible at:
-[Deployment Link](https://get-random-qoutes.netlify.app/)
+[Deployment Link](https://quotesplash.netlify.app/)
 
 ## 📸 Screenshots
 ### 💻 Desktop View:
 <img src="./img/desktop_view.png" alt="Quote Generator" width="600">
+
 ### 📱 Mobible View:
 <img src="./img/mobile_view.jpg" alt="Quote Generator" height="500">
 
-### 📝 Example Quote(Dwonloads):
+### 🐦 Share on Twitter:
+<img src="./img/shareonTwitter.png" alt="Quote Generator" width="600">
+
+### 📋 Copy to Clipboard:
+<img src="./img/copyToClipboard.png" alt="Quote Generator" width="600">
+
+### ⬇️ Dwonloads/Export:
 <img src="./img/quote (7).png" alt="Quote Generator" width="600">
 <img src="./img/quote (9).png" alt="Quote Generator" width="600">
 
