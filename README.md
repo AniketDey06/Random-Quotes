@@ -1,4 +1,4 @@
-# 📜 Random Quotes
+# 📜 Get Random Quotes
 ## 📝 Description
 A simple web application that fetches random quotes from an API and provides additional features such as copying, sharing, and exporting quotes as images.
 
@@ -18,7 +18,7 @@ A simple web application that fetches random quotes from an API and provides add
 
 ## 🌍 Deployment
 The application is deployed and accessible at:
-[Deployment Link](https://yourdeploymenturl.com)
+[Deployment Link](https://get-random-qoutes.netlify.app/)
 
 ## 📸 Screenshots
 ### 💻 Desktop View:
