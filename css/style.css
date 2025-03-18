@@ -1,3 +1,4 @@
+/* google fonts  */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 *{
@@ -14,9 +15,7 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
-
     background-color: #ffffff;
-    /* opacity: 0.1; */
     background-image: radial-gradient(#00000065 0.8px, #ffffff65 0.8px);
     background-size: 16px 16px;
 }
@@ -36,15 +35,13 @@ body{
     max-width: 65%;
     text-align: center;
 }
-
 .card{
     display: flex;
     flex-direction: column;
     text-align: center;
     justify-content: center;
     padding: 25px;
-    min-height: 40vh;    
-    /* Here i have useed  min-height becauce i observed in average case maximum qoutes 40vh is good enough so when ever it requires more it can able to take */
+    min-height: 40vh;    /* Here i have useed  min-height becauce i observed in average case maximum qoutes 40vh is good enough so when ever it requires more it can able to take */
     background: #9595955b;
     backdrop-filter: blur(0.5px);
     margin: 25px;
@@ -52,18 +49,14 @@ body{
 
     background-size: cover;
     background-position: center center;
-    /* backdrop-filter: blur(50px); */
 }
 
-
-
-/* From Uiverse.io by Cornerstone-04 */
 i{
     margin-right: 5px;
 }
 
+/* buttons css  */
 .box {
-    /* width: 140px; */
     height: auto;
     float: left;
     transition: .5s linear;
@@ -131,6 +124,8 @@ button {
     border: none;
     background: transparent;
 }
+
+/* mobile view */
 
 @media only screen and (max-width: 600px) {
     body{

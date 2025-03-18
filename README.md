@@ -7,13 +7,13 @@ A simple web application that fetches random quotes from an API and provides add
 - 📖 Displays the quote and author on the page.
 - 🔄 "New Quote" button to fetch another quote.
 - 📋 Copy to clipboard button. Copies the quote in to your clipboard.
-- 🐦 Share on Twitter(X) button. It takes the directly to the Twitter post jus have to hit post.
+- 🐦 Share on Twitter(X) button. It takes the quote directly to the Twitter post just have to hit post.
 - 🌄 Sets a Random background image behind the quote. It works on page refresh. It takes 2-3s to load.
 - 📥 Export feature to save the quote as an image.
 - 📲 Fully functional and visually consistent across mobile and desktop devices.
 
 ## 🔗 API Endpoint
-- [API Documentation](https://freeapi.hashnode.space/api-guide/apireference/getARandomQuote)
+- [Random Quote API(freeapi.app)](https://freeapi.hashnode.space/api-guide/apireference/getARandomQuote)
 - [Random Image API(Picsum)](https://picsum.photos/2000)
 
 ## 🌍 Deployment
