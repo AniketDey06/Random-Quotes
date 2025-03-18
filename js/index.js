@@ -26,7 +26,8 @@ async function fetchQuote() {
 
 // Sets a random image behind the quote 
 function setRandomBackground() {
-    quoteCard.style.backgroundImage = "linear-gradient(rgba(198, 203, 228, 0.6),rgba(113, 113, 151, 0.6)), url('https://picsum.photos/2000')"
+    const randomImageUrl = `https://picsum.photos/2000?random=${Date.now()}`;
+    quoteCard.style.backgroundImage = `linear-gradient(rgba(198, 203, 228, 0.6), rgba(113, 113, 151, 0.6)), url('${randomImageUrl}')`;
 }
 
 // Copies the Quote add in to the clipboard

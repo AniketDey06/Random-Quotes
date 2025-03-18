@@ -8,7 +8,7 @@ A simple web application that fetches random quotes from an API and provides add
 - 🔄 "New Quote" button to fetch another quote.
 - 📋 Copy to clipboard button. Copies the quote in to your clipboard.
 - 🐦 Share on Twitter(X) button. It takes the quote directly to the Twitter post just have to hit post.
-- 🌄 Sets a Random background image behind the quote. It works on page refresh. It takes 2-3s to load.
+- 🌄 Sets a Random background image behind the quote. It takes 2-3s to load the image.
 - 📥 Export feature to save the quote as an image.
 - 📲 Fully functional and visually consistent across mobile and desktop devices.
 
